@@ -1,0 +1,1418 @@
+_to,_from,cityFrom,cityTo
+1,2,Greenock,Glasgow
+2,3,Glasgow,Preston
+2,17,Glasgow,Edinburgh
+3,4,Preston,Birmingham
+4,5,Birmingham,Southampton
+4,855,Birmingham,Cambridge
+6,7,Le Havre,Paris
+6,880,Le Havre,Amiens
+7,8,Paris,Orléans
+7,22,Paris,Calais
+7,23,Paris,Lyon
+7,411,Paris,Brussels
+7,453,Paris,Le Mans
+7,454,Paris,Reims
+7,889,Paris,Chaumont
+8,9,Orléans,Bordeaux
+8,479,Orléans,Tours
+8,480,Orléans,Montargis
+8,561,Orléans,Toulouse
+9,10,Bordeaux,San Sebastián
+9,537,Bordeaux,Clermont-Ferrand
+9,561,Bordeaux,Toulouse
+9,1074,Bordeaux,Angoulême
+10,11,San Sebastián,Burgos
+10,536,San Sebastián,Bilbao
+10,561,San Sebastián,Toulouse
+11,12,Burgos,Madrid
+11,560,Burgos,Valladolid
+12,13,Madrid,Seville
+12,27,Madrid,Barcelona
+12,30,Madrid,Valencia
+12,559,Madrid,Lisbon
+13,14,Seville,Algeciras
+13,596,Seville,Huelva
+13,1138,Seville,Mérida
+14,34,Algeciras,Málaga
+15,16,Inverness,Perth
+16,17,Perth,Edinburgh
+17,18,Edinburgh,Newcastle
+18,19,Newcastle,London
+18,823,Newcastle,Carlisle
+19,20,London,Folkestone
+19,388,London,Bristol
+19,389,London,Colchester
+19,627,London,Northampton
+20,21,Folkestone,Dover
+22,409,Calais,Bruges
+22,885,Calais,Rouen
+23,24,Lyon,Orange
+23,537,Lyon,Clermont-Ferrand
+23,538,Lyon,Chambéry
+23,1078,Lyon,Pont-d'Ain
+23,1109,Lyon,Grenoble
+24,25,Orange,Narbonne
+24,1110,Orange,Marseille
+25,26,Narbonne,Girona
+26,27,Girona,Barcelona
+27,28,Barcelona,Tarragona
+27,561,Barcelona,Toulouse
+28,29,Tarragona,Castellón de la Plana
+29,30,Castellón de la Plana,Valencia
+30,31,Valencia,Alicante
+31,32,Alicante,Murcia
+32,33,Murcia,Almería
+33,34,Almería,Málaga
+34,1159,Málaga,Granada
+35,36,Hook of Holland,Rotterdam
+35,392,Hook of Holland,The Hague
+36,37,Rotterdam,Eindhoven
+36,631,Rotterdam,Ludwigshafen
+37,38,Eindhoven,Maastricht
+37,628,Eindhoven,Antwerp
+37,863,Eindhoven,Venlo
+37,1011,Eindhoven,Breda
+38,39,Maastricht,Liège
+39,40,Liège,Bastogne
+39,412,Liège,Leuven
+39,413,Liège,Eupen
+39,628,Liège,Antwerp
+39,875,Liège,Namur
+39,876,Liège,St. Vith
+39,881,Liège,Charleville-Mézières
+40,41,Bastogne,Arlon
+41,42,Arlon,Luxembourg
+42,43,Luxembourg,Metz
+42,876,Luxembourg,St. Vith
+42,881,Luxembourg,Charleville-Mézières
+42,882,Luxembourg,Trier
+43,44,Metz,Saint-Avold
+43,50,Metz,Lausanne
+43,51,Metz,Geneva
+43,411,Metz,Brussels
+43,454,Metz,Reims
+43,455,Metz,Saarbrücken
+44,45,Saint-Avold,Strasbourg
+45,46,Strasbourg,Mulhouse
+45,888,Strasbourg,Appenweier
+46,47,Mulhouse,Basel
+46,485,Mulhouse,Belfort
+46,889,Mulhouse,Chaumont
+46,1036,Mulhouse,Remiremont
+47,48,Basel,Olten
+47,73,Basel,Offenburg
+47,486,Basel,Zürich
+47,890,Basel,Waldshut
+48,49,Olten,Bern
+48,74,Olten,Lucerne
+49,50,Bern,Lausanne
+49,485,Bern,Belfort
+49,629,Bern,Martigny
+50,51,Lausanne,Geneva
+50,629,Lausanne,Martigny
+51,52,Geneva,Mont Blanc
+51,538,Geneva,Chambéry
+51,901,Geneva,Mâcon
+52,53,Mont Blanc,Aosta
+53,54,Aosta,Ivrea
+53,629,Aosta,Martigny
+54,55,Ivrea,Vercelli
+54,540,Ivrea,Turin
+55,56,Vercelli,Alessandria
+56,57,Alessandria,Genoa
+56,540,Alessandria,Turin
+56,541,Alessandria,Tortona
+56,912,Alessandria,Asti
+57,86,Genoa,Rome
+57,541,Genoa,Tortona
+57,562,Genoa,Nice
+58,59,Bastia,Porto-Vecchio
+59,60,Porto-Vecchio,Bonifacio
+61,62,Porto Torres,Sassari
+62,63,Sassari,Cagliari
+62,1144,Sassari,Olbia
+64,65,Amsterdam,Utrecht
+64,394,Amsterdam,Amersfoort
+64,411,Amsterdam,Brussels
+64,842,Amsterdam,Groningen
+65,66,Utrecht,Arnhem
+65,393,Utrecht,Gouda
+65,394,Utrecht,Amersfoort
+65,1012,Utrecht,Gorinchem
+66,67,Arnhem,Emmerich
+67,68,Emmerich,Oberhausen
+68,69,Oberhausen,Cologne
+68,669,Oberhausen,Dortmund
+68,863,Oberhausen,Venlo
+69,70,Cologne,Frankfurt am Main
+69,414,Cologne,Aachen
+69,415,Cologne,Olpe
+69,630,Cologne,Sarreguemines
+69,633,Cologne,Bremen
+70,71,Frankfurt am Main,Heidelberg
+70,417,Frankfurt am Main,Gießen
+70,456,Frankfurt am Main,Mannheim
+70,670,Frankfurt am Main,Aschaffenburg
+70,879,Frankfurt am Main,Wiesbaden
+71,72,Heidelberg,Karlsruhe
+72,73,Karlsruhe,Offenburg
+72,671,Karlsruhe,Stuttgart
+72,888,Karlsruhe,Appenweier
+73,1037,Offenburg,Donaueschingen
+74,75,Lucerne,Altdorf
+75,76,Altdorf,Gotthard Pass
+75,486,Altdorf,Zürich
+76,77,Gotthard Pass,Bellinzona
+77,78,Bellinzona,Lugano
+77,677,Bellinzona,San Bernardino
+78,79,Lugano,Chiasso
+79,80,Chiasso,Como
+80,81,Como,Milan
+81,82,Milan,Piacenza
+81,540,Milan,Turin
+81,541,Milan,Tortona
+81,542,Milan,Brescia
+81,904,Milan,Gravellona Toce
+82,83,Piacenza,Parma
+83,84,Parma,Modena
+83,632,Parma,La Spezia
+84,85,Modena,Florence
+84,115,Modena,Verona
+84,116,Modena,Bologna
+85,86,Florence,Rome
+85,914,Florence,Migliarino
+86,154,Rome,Pescara
+86,1143,Rome,San Cesareo
+87,88,Karesuvanto,Karesuando
+88,89,Karesuando,Arvidsjaur
+89,90,Arvidsjaur,Östersund
+90,91,Östersund,Mora
+90,604,Östersund,Trondheim
+90,798,Östersund,Sundsvall
+91,92,Mora,Säffle
+92,93,Säffle,Gothenburg
+93,374,Gothenburg,Halmstad
+93,375,Gothenburg,Örebro
+93,600,Gothenburg,Oslo
+94,95,Frederikshavn,Aalborg
+95,96,Aalborg,Aarhus
+95,668,Aalborg,Nørresundby
+96,97,Aarhus,Vejle
+97,98,Vejle,Kolding
+98,99,Kolding,Flensburg
+99,100,Flensburg,Hamburg
+100,101,Hamburg,Hanover
+100,137,Hamburg,Berlin
+100,633,Hamburg,Bremen
+100,681,Hamburg,Lübeck
+101,102,Hanover,Göttingen
+101,397,Hanover,Bad Oeynhausen
+101,398,Hanover,Braunschweig
+102,103,Göttingen,Kassel
+103,104,Kassel,Fulda
+103,669,Kassel,Dortmund
+104,105,Fulda,Würzburg
+105,106,Würzburg,Nuremberg
+105,670,Würzburg,Aschaffenburg
+105,671,Würzburg,Stuttgart
+105,673,Würzburg,Ulm
+106,107,Nuremberg,Munich
+106,457,Nuremberg,Heilbronn
+106,458,Nuremberg,Rozvadov
+106,693,Nuremberg,Bayreuth
+106,891,Nuremberg,Regensburg
+107,108,Munich,Rosenheim
+107,144,Munich,Salzburg
+107,673,Munich,Ulm
+107,674,Munich,Lindau
+107,695,Munich,Deggendorf
+107,1040,Munich,Garmisch-Partenkirchen
+107,1044,Munich,Braunau am Inn
+108,109,Rosenheim,Wörgl
+108,496,Rosenheim,Bad Reichenhall
+109,110,Wörgl,Innsbruck
+109,1079,Wörgl,St. Johann in Tirol
+110,111,Innsbruck,Brenner
+110,493,Innsbruck,Telfs
+110,494,Innsbruck,Lauterach
+110,495,Innsbruck,Imst
+110,1042,Innsbruck,Seefeld
+111,112,Brenner,Fortezza
+112,113,Fortezza,Bolzano
+112,905,Fortezza,Innichen
+113,114,Bolzano,Trento
+114,115,Trento,Verona
+115,149,Verona,Mestre
+115,542,Verona,Brescia
+116,117,Bologna,Cesena
+117,118,Cesena,Perugia
+117,150,Cesena,Ravenna
+117,151,Cesena,Rimini
+118,119,Perugia,Fiano Romano
+119,120,Fiano Romano,Naples
+120,121,Naples,Salerno
+120,1145,Naples,Avellino
+121,122,Salerno,Sicignano degli Alburni
+121,1145,Salerno,Avellino
+122,123,Sicignano degli Alburni,Cosenza
+122,1150,Sicignano degli Alburni,Potenza
+123,124,Cosenza,Villa San Giovanni
+123,1149,Cosenza,Crotone
+125,126,Messina,Catania
+125,573,Messina,Palermo
+126,127,Catania,Siracusa
+126,1161,Catania,Enna
+127,128,Siracusa,Gela
+128,572,Gela,Mazara del Vallo
+129,130,Helsingør,Copenhagen
+130,131,Copenhagen,Køge
+130,164,Copenhagen,Malmö
+130,372,Copenhagen,Esbjerg
+131,132,Køge,Vordingborg
+132,133,Vordingborg,Farø
+133,134,Farø,Nykøbing Falster
+133,678,Farø,Rødby
+134,135,Nykøbing Falster,Gedser
+136,137,Rostock,Berlin
+136,681,Rostock,Lübeck
+136,843,Rostock,Sassnitz
+137,138,Berlin,Lübbenau
+137,169,Berlin,Szczecin
+137,171,Berlin,Świebodzin
+137,399,Berlin,Magdeburg
+137,690,Berlin,Leipzig
+137,994,Berlin,Neubrandenburg
+138,139,Lübbenau,Dresden
+138,864,Lübbenau,Cottbus
+139,140,Dresden,Ústí nad Labem
+139,422,Dresden,Chemnitz
+139,423,Dresden,Görlitz
+140,141,Ústí nad Labem,Prague
+141,142,Prague,Tábor
+141,178,Prague,Mladá Boleslav
+141,179,Prague,Jihlava
+141,459,Prague,Plzeň
+141,687,Prague,Karlovy Vary
+141,715,Prague,Hradec Králové
+142,143,Tábor,Linz
+143,144,Linz,Salzburg
+143,497,Linz,Sattledt
+143,498,Linz,Sankt Pölten
+143,893,Linz,Wels
+144,145,Salzburg,Villach
+144,496,Salzburg,Bad Reichenhall
+144,497,Salzburg,Sattledt
+144,1080,Salzburg,Lofer
+145,146,Villach,Tarvisio
+145,701,Villach,Karavanke Tunnel
+145,906,Villach,Spittal an der Drau
+145,907,Villach,Klagenfurt
+146,147,Tarvisio,Udine
+147,148,Udine,Palmanova
+148,149,Palmanova,Mestre
+148,543,Palmanova,Trieste
+149,150,Mestre,Ravenna
+151,152,Rimini,Fano
+152,153,Fano,Ancona
+152,917,Fano,Sansepolcro
+153,154,Ancona,Pescara
+154,155,Pescara,Canosa di Puglia
+155,156,Canosa di Puglia,Bari
+155,1146,Canosa di Puglia,Benevento
+156,157,Bari,Brindisi
+156,576,Bari,Taranto
+157,576,Brindisi,Taranto
+158,159,Igoumenitsa,Preveza
+158,577,Igoumenitsa,Ioannina
+159,160,Preveza,Rhion
+160,161,Rhion,Patras
+160,210,Rhion,Aigio
+161,162,Patras,Pyrgos
+162,163,Pyrgos,Kalamata
+163,212,Kalamata,Tripoli
+164,165,Malmö,Ystad
+164,373,Malmö,Helsingborg
+164,599,Malmö,Trelleborg
+164,844,Malmö,Kalmar
+166,167,Świnoujście,Wolin
+167,168,Wolin,Goleniów
+168,169,Goleniów,Szczecin
+168,856,Goleniów,Koszalin
+169,170,Szczecin,Gorzów Wielkopolski
+170,171,Gorzów Wielkopolski,Świebodzin
+171,172,Świebodzin,Zielona Góra
+171,400,Świebodzin,Poznań
+172,173,Zielona Góra,Legnica
+173,174,Legnica,Jelenia Góra
+173,423,Legnica,Görlitz
+173,424,Legnica,Wrocław
+173,864,Legnica,Cottbus
+174,175,Jelenia Góra,Harrachov
+175,176,Harrachov,Železný Brod
+176,177,Železný Brod,Turnov
+177,178,Turnov,Mladá Boleslav
+177,715,Turnov,Hradec Králové
+177,1030,Turnov,Teplice
+179,180,Jihlava,Brno
+179,499,Jihlava,Vienna
+180,181,Brno,Bratislava
+180,460,Brno,Trenčín
+180,499,Brno,Vienna
+180,1031,Brno,Olomouc
+180,1032,Brno,Svitavy
+181,182,Bratislava,Rajka
+181,234,Bratislava,Žilina
+181,235,Bratislava,Győr
+181,499,Bratislava,Vienna
+181,735,Bratislava,Zvolen
+181,1049,Bratislava,Dunajská Streda
+182,183,Rajka,Csorna
+183,184,Csorna,Szombathely
+184,185,Szombathely,Zalaegerszeg
+185,186,Zalaegerszeg,Nagykanizsa
+186,187,Nagykanizsa,Letenye
+186,188,Nagykanizsa,Zagreb
+186,718,Nagykanizsa,Balatonvilágos
+187,188,Letenye,Zagreb
+187,1083,Letenye,Torniyiszentmiklós
+188,189,Zagreb,Karlovac
+188,545,Zagreb,Ljubljana
+188,546,Zagreb,Slavonski Brod
+188,699,Zagreb,Maribor
+189,190,Karlovac,Rijeka
+189,719,Karlovac,Knin
+190,191,Rijeka,Split
+190,543,Rijeka,Trieste
+190,1113,Rijeka,Pula
+191,192,Split,Dubrovnik
+191,719,Split,Knin
+192,193,Dubrovnik,Petrovac
+192,194,Dubrovnik,Podgorica
+193,194,Petrovac,Podgorica
+193,1153,Petrovac,Prizren
+194,195,Podgorica,Bijelo Polje
+194,196,Podgorica,Pristina
+194,1116,Podgorica,Sarajevo
+195,196,Bijelo Polje,Pristina
+195,1124,Bijelo Polje,Nova Varoš
+196,197,Pristina,Skopje
+196,241,Pristina,Niš
+196,1153,Pristina,Prizren
+197,198,Skopje,Kičevo
+197,242,Skopje,Kumanovo
+197,243,Skopje,Veles
+198,199,Kičevo,Ohrid
+199,200,Ohrid,Bitola
+200,201,Bitola,Niki
+201,202,Niki,Vevi
+202,203,Vevi,Kozani
+203,204,Kozani,Larissa
+203,246,Kozani,Thessaloniki
+203,577,Kozani,Ioannina
+204,205,Larissa,Domokos
+204,206,Larissa,Lamia
+204,247,Larissa,Katerini
+204,931,Larissa,Trikala
+204,932,Larissa,Volos
+205,206,Domokos,Lamia
+206,207,Lamia,Brallos
+206,248,Lamia,Athens
+206,1170,Lamia,Karpenisi
+207,208,Brallos,Itea
+208,209,Itea,Antirrio
+210,211,Aigio,Corinth
+211,212,Corinth,Tripoli
+211,933,Corinth,Megara
+212,1171,Tripoli,Sparti
+213,214,Kissamos,Chania
+214,249,Chania,Heraklion
+215,216,Vardø,Vadsø
+216,217,Vadsø,Varangerbotn
+217,218,Varangerbotn,Utsjoki
+217,288,Varangerbotn,Kirkenes
+217,616,Varangerbotn,Karasjok
+218,219,Utsjoki,Inari
+219,220,Inari,Ivalo
+220,221,Ivalo,Sodankylä
+221,222,Sodankylä,Rovaniemi
+221,703,Sodankylä,Kemijärvi
+222,223,Rovaniemi,Kemi
+223,224,Kemi,Oulu
+223,802,Kemi,Tornio
+224,225,Oulu,Jyväskylä
+224,808,Oulu,Kokkola
+225,226,Jyväskylä,Heinola
+225,708,Jyväskylä,Kuopio
+225,709,Jyväskylä,Tampere
+226,227,Heinola,Lahti
+227,228,Lahti,Helsinki
+228,811,Helsinki,Hämeenlinna
+228,834,Helsinki,Turku/Naantali
+228,835,Helsinki,Kotka
+229,230,Gdańsk,Świecie
+229,730,Gdańsk,Kaliningrad
+229,731,Gdańsk,Elbląg
+229,858,Gdańsk,Gdynia
+230,231,Świecie,Łódź
+230,400,Świecie,Poznań
+231,232,Łódź,Piotrków Trybunalski
+232,233,Piotrków Trybunalski,Katowice
+232,401,Piotrków Trybunalski,Warsaw
+232,424,Piotrków Trybunalski,Wrocław
+233,234,Katowice,Žilina
+233,427,Katowice,Zabrze
+233,428,Katowice,Kraków
+233,1033,Katowice,Český Těšín
+234,1031,Žilina,Olomouc
+235,236,Győr,Budapest
+235,1051,Győr,Vámosszabadi
+236,237,Budapest,Szeged
+236,501,Budapest,Mosonmagyaróvár
+236,502,Budapest,Szolnok
+236,717,Budapest,Miskolc
+236,718,Budapest,Balatonvilágos
+236,720,Budapest,Szekszárd
+236,735,Budapest,Zvolen
+237,238,Szeged,Subotica
+237,910,Szeged,Arad
+238,239,Subotica,Novi Sad
+238,1092,Subotica,Sombor
+239,240,Novi Sad,Belgrade
+240,241,Belgrade,Niš
+240,546,Belgrade,Slavonski Brod
+240,547,Belgrade,Vršac
+240,1118,Belgrade,Čačak
+241,242,Niš,Kumanovo
+241,549,Niš,Drobeta-Turnu Severin
+241,563,Niš,Sofia
+242,1154,Kumanovo,Kyustendil
+243,244,Veles,Gevgelija
+244,245,Gevgelija,Evzoni
+245,246,Evzoni,Thessaloniki
+246,247,Thessaloniki,Katerini
+246,276,Thessaloniki,Alexandroupoli
+246,747,Thessaloniki,Serres
+249,250,Heraklion,Agios Nikolaos
+250,251,Agios Nikolaos,Sitia
+252,253,Klaipėda,Kaunas
+252,1009,Klaipėda,Palanga
+253,254,Kaunas,Vilnius
+253,401,Kaunas,Warsaw
+253,711,Kaunas,Riga
+253,995,Kaunas,Ukmergė
+254,255,Vilnius,Lida
+254,403,Vilnius,Minsk
+254,860,Vilnius,Marijampolė
+254,995,Vilnius,Ukmergė
+255,256,Lida,Slonim
+256,257,Slonim,Kobryn
+257,258,Kobryn,Dubno
+258,259,Dubno,Ternopil
+259,260,Ternopil,Chernivtsi
+259,466,Ternopil,Stryj
+259,467,Ternopil,Khmelnytskyi
+260,261,Chernivtsi,Siret
+261,262,Siret,Suceava
+262,263,Suceava,Roman
+262,748,Suceava,Halmeu
+262,894,Suceava,Iaşi
+263,264,Roman,Urziceni
+264,265,Urziceni,Bucharest
+264,510,Urziceni,Slobozia
+265,266,Bucharest,Giurgiu
+265,509,Bucharest,Ploieşti
+265,512,Bucharest,Constanţa
+265,551,Bucharest,Alexandria
+265,753,Bucharest,Piteşti
+266,267,Giurgiu,Ruse
+267,268,Ruse,Byala
+267,552,Ruse,Razgrad
+268,269,Byala,Veliko Tarnovo
+268,754,Byala,Pleven
+269,270,Veliko Tarnovo,Stara Zagora
+269,553,Veliko Tarnovo,Shumen
+269,1125,Veliko Tarnovo,Yablanitsa
+270,271,Stara Zagora,Haskovo
+270,760,Stara Zagora,Burgas
+270,1126,Stara Zagora,Popovica
+271,272,Haskovo,Svilengrad
+272,273,Svilengrad,Ormenio
+273,274,Ormenio,Kastanies
+274,275,Kastanies,Didymoteicho
+275,276,Didymoteicho,Alexandroupoli
+276,578,Alexandroupoli,Gelibolu
+277,278,Saint Petersburg,Pskov
+277,284,Saint Petersburg,Moscow
+277,290,Saint Petersburg,Petrozavodsk
+277,378,Saint Petersburg,Narva
+277,837,Saint Petersburg,Vyborg
+278,279,Pskov,Gomel
+278,711,Pskov,Riga
+279,280,Gomel,Kiev
+279,1008,Gomel,Babruysk
+280,281,Kiev,Odessa
+280,287,Kiev,Hlukhiv
+280,292,Kiev,Kharkiv
+280,433,Kiev,Rivne
+280,434,Kiev,Zhytomyr
+281,756,Odessa,Izmail
+281,896,Odessa,Chişinău
+281,897,Odessa,Mykolaiv
+282,283,Samsun,Merzifon
+282,555,Samsun,Ordu
+284,285,Moscow,Kaluga
+284,291,Moscow,Orel
+284,296,Moscow,Yaroslavl
+284,297,Moscow,Voronezh
+284,310,Moscow,Tambov
+284,404,Moscow,Smolensk
+284,405,Moscow,Ryazan
+284,847,Moscow,Velikiye Luki
+284,848,Moscow,Vladimir
+285,286,Kaluga,Bryansk
+286,287,Bryansk,Hlukhiv
+287,865,Hlukhiv,Kursk
+288,289,Kirkenes,Murmansk
+289,290,Murmansk,Petrozavodsk
+291,292,Orel,Kharkiv
+292,293,Kharkiv,Simferopol
+292,435,Kharkiv,Luhansk
+293,294,Simferopol,Alushta
+294,295,Alushta,Yalta
+297,298,Voronezh,Novorossiysk
+297,865,Voronezh,Kursk
+297,866,Voronezh,Saratov
+298,782,Novorossiysk,Dzhankoy
+298,783,Novorossiysk,Sochi
+299,300,Mineralnye Vody,Nalchik
+299,314,Mineralnye Vody,Makhachkala
+299,474,Mineralnye Vody,Armavir
+300,301,Nalchik,Vladikavkaz
+301,302,Vladikavkaz,Stepantsminda
+302,303,Stepantsminda,Mtskheta
+303,304,Mtskheta,Tbilisi
+304,305,Tbilisi,Marneuli
+304,519,Tbilisi,Gori
+304,520,Tbilisi,Rustavi
+305,306,Marneuli,Bolnisi
+305,942,Marneuli,Sadakhlo
+306,307,Bolnisi,Yerevan
+307,308,Yerevan,Goris
+308,309,Goris,Megri
+310,311,Tambov,Povorino
+311,312,Povorino,Volgograd
+312,313,Volgograd,Astrakhan
+312,435,Volgograd,Luhansk
+313,314,Astrakhan,Makhachkala
+313,321,Astrakhan,Atyrau
+314,315,Makhachkala,Kuba
+315,316,Kuba,Baku
+316,317,Baku,Alyat
+316,522,Baku,Yevlakh
+317,318,Alyat,Astara
+317,945,Alyat,Saatly Rayon
+319,320,Samara,Oral
+319,406,Samara,Penza
+319,407,Samara,Ufa
+320,321,Oral,Atyrau
+320,866,Oral,Saratov
+320,867,Oral,Aktobe
+321,322,Atyrau,Beineu
+321,436,Atyrau,Beyneu
+322,323,Beineu,Shetpe
+323,324,Shetpe,Zhetybai
+324,325,Zhetybai,Fetisovo
+325,326,Fetisovo,Bekdash
+326,327,Bekdash,Türkmenbaşy
+327,328,Türkmenbaşy,Gyzylarbat
+328,523,Gyzylarbat,Ashgabat
+329,330,Chelyabinsk,Kostanay
+329,407,Chelyabinsk,Ufa
+329,408,Chelyabinsk,Kurgan
+330,331,Kostanay,Esil
+331,332,Esil,Derzhavinsk
+332,333,Derzhavinsk,Arkalyk
+333,334,Arkalyk,Jezkazgan
+334,335,Jezkazgan,Kyzylorda
+334,343,Jezkazgan,Karaganda
+335,336,Kyzylorda,Shymkent
+335,870,Kyzylorda,Novokazalinsk
+336,337,Shymkent,Tashkent
+336,444,Shymkent,Zhambyl
+337,338,Tashkent,Ayni
+337,443,Tashkent,Jizzakh
+337,954,Tashkent,Kokand
+338,339,Ayni,Dushanbe
+338,954,Ayni,Kokand
+339,340,Dushanbe,Panji Poyon
+339,531,Dushanbe,Termez
+339,532,Dushanbe,Jirgatal
+339,957,Dushanbe,Kulob
+341,342,Ishim,Astana
+341,350,Ishim,Omsk
+341,408,Ishim,Kurgan
+341,854,Ishim,Tyumen
+342,343,Astana,Karaganda
+342,976,Astana,Atbasar
+343,344,Karaganda,Balkhash
+343,351,Karaganda,Pavlodar
+344,345,Balkhash,Burubaytal
+345,346,Burubaytal,Almaty
+346,347,Almaty,Bishkek
+346,445,Almaty,Sary-Ozek
+346,965,Almaty,Kokpek
+347,348,Bishkek,Naryn
+347,444,Bishkek,Zhambyl
+347,956,Bishkek,Osh
+348,349,Naryn,Torugart Pass
+350,351,Omsk,Pavlodar
+351,352,Pavlodar,Semey
+351,977,Pavlodar,Uspenovka
+352,353,Semey,Georgiyevka
+353,354,Georgiyevka,Maikapshagai
+353,449,Georgiyevka,Ayagoz
+353,450,Georgiyevka,Oskemen
+355,356,Å,Svolvær
+357,358,Melbu,Sortland
+358,359,Sortland,Lødingen
+359,360,Lødingen,Evenes
+360,361,Evenes,Narvik
+361,362,Narvik,Kiruna
+361,611,Narvik,Ballangen
+361,612,Narvik,Setermoen
+362,363,Kiruna,Töre
+363,364,Töre,Luleå
+364,800,Luleå,Umeå
+364,801,Luleå,Haparanda
+365,366,Shannon,Limerick
+366,367,Limerick,Dublin
+367,382,Dublin,Rosslare
+367,590,Dublin,Drogheda
+368,369,Liverpool,Manchester
+369,370,Manchester,Leeds
+369,840,Manchester,Warrington
+370,371,Leeds,Kingston upon Hull
+370,623,Leeds,Doncaster
+373,374,Helsingborg,Halmstad
+373,793,Helsingborg,Jönköping
+375,376,Örebro,Stockholm
+375,831,Örebro,Karlstad
+375,832,Örebro,Västerås
+376,796,Stockholm,Södertälje
+376,797,Stockholm,Uppsala
+377,378,Tallinn,Narva
+377,711,Tallinn,Riga
+377,998,Tallinn,Tartu
+377,1006,Tallinn,Keila
+379,380,Cork,Waterford
+379,986,Cork,Portlaoise
+380,381,Waterford,Wexford
+381,382,Wexford,Rosslare
+383,384,Fishguard,Swansea
+384,385,Swansea,Bridgend
+385,386,Bridgend,Cardiff
+386,387,Cardiff,Newport
+387,388,Newport,Bristol
+389,390,Colchester,Ipswich
+389,861,Colchester,Harwich
+390,391,Ipswich,Felixstowe
+390,855,Ipswich,Cambridge
+392,393,The Hague,Gouda
+394,395,Amersfoort,Oldenzaal
+394,987,Amersfoort,Hoogeveen
+395,396,Oldenzaal,Osnabrück
+396,397,Osnabrück,Bad Oeynhausen
+397,669,Bad Oeynhausen,Dortmund
+398,399,Braunschweig,Magdeburg
+399,682,Magdeburg,Halle
+400,401,Poznań,Warsaw
+400,424,Poznań,Wrocław
+401,402,Warsaw,Brest
+401,731,Warsaw,Elbląg
+401,732,Warsaw,Radom
+401,1019,Warsaw,Lublin
+402,403,Brest,Minsk
+402,452,Brest,Rennes
+402,475,Brest,Lorient
+403,404,Minsk,Smolensk
+403,1008,Minsk,Babruysk
+405,406,Ryazan,Penza
+407,851,Ufa,Yelabuga
+409,410,Bruges,Ghent
+409,862,Bruges,Zeebrugge
+409,1024,Bruges,Roeselare
+410,411,Ghent,Brussels
+411,412,Brussels,Leuven
+412,1014,Leuven,Hasselt
+413,414,Eupen,Aachen
+413,876,Eupen,St. Vith
+413,1029,Eupen,Eynatten
+414,1015,Aachen,Heerlen
+415,416,Olpe,Wetzlar
+416,417,Wetzlar,Gießen
+416,669,Wetzlar,Dortmund
+416,670,Wetzlar,Aschaffenburg
+416,883,Wetzlar,Koblenz
+417,418,Gießen,Bad Hersfeld
+418,419,Bad Hersfeld,Eisenach
+419,420,Eisenach,Erfurt
+420,421,Erfurt,Gera
+421,422,Gera,Chemnitz
+421,690,Gera,Leipzig
+421,691,Gera,Hirschberg
+422,683,Chemnitz,Plauen
+424,425,Wrocław,Opole
+424,712,Wrocław,Kłodzko
+425,426,Opole,Gliwice
+426,427,Gliwice,Zabrze
+428,429,Kraków,Rzeszów
+428,732,Kraków,Radom
+428,733,Kraków,Trstená
+429,430,Rzeszów,Jarosław
+429,732,Rzeszów,Radom
+429,1016,Rzeszów,Barwinek
+430,431,Jarosław,Korczowa
+431,432,Korczowa,Lviv
+432,433,Lviv,Rivne
+432,465,Lviv,Mukachevo
+432,1019,Lviv,Lublin
+433,434,Rivne,Zhytomyr
+433,1020,Rivne,Kovel
+434,468,Zhytomyr,Vinnytsia
+436,437,Beyneu,Qo‘ng‘irot
+437,438,Qo‘ng‘irot,Nukus
+438,439,Nukus,Daşoguz
+439,440,Daşoguz,Bukhara
+439,523,Daşoguz,Ashgabat
+439,950,Daşoguz,Uchkuduk
+440,441,Bukhara,Navoiy
+440,527,Bukhara,Alat
+440,528,Bukhara,Karshi
+440,950,Bukhara,Uchkuduk
+441,442,Navoiy,Samarkand
+442,443,Samarkand,Jizzakh
+442,953,Samarkand,Guza
+445,446,Sary-Ozek,Taldykorgan
+445,969,Sary-Ozek,Koktal
+446,447,Taldykorgan,Ucharal
+447,448,Ucharal,Taskesken
+448,449,Taskesken,Ayagoz
+448,973,Taskesken,Bakhty
+450,451,Oskemen,Ridder
+452,453,Rennes,Le Mans
+453,478,Le Mans,Angers
+453,479,Le Mans,Tours
+453,885,Le Mans,Rouen
+454,874,Reims,Charleroi
+454,881,Reims,Charleville-Mézières
+454,885,Reims,Rouen
+455,456,Saarbrücken,Mannheim
+455,882,Saarbrücken,Trier
+456,457,Mannheim,Heilbronn
+458,459,Rozvadov,Plzeň
+459,687,Plzeň,Karlovy Vary
+459,688,Plzeň,České Budějovice
+459,694,Plzeň,Bayerisch Eisenstein
+460,461,Trenčín,Prešov
+460,1045,Trenčín,Žiar nad Hronom
+461,462,Prešov,Košice
+461,1018,Prešov,Svidník
+462,463,Košice,Vyšné Nemecké
+462,464,Košice,Uzhhorod
+462,717,Košice,Miskolc
+462,735,Košice,Zvolen
+463,464,Vyšné Nemecké,Uzhhorod
+464,465,Uzhhorod,Mukachevo
+464,1047,Uzhhorod,Chop
+465,466,Mukachevo,Stryj
+465,748,Mukachevo,Halmeu
+467,468,Khmelnytskyi,Vinnytsia
+468,469,Vinnytsia,Uman
+468,1067,Vinnytsia,Mohyliv-Podilskyi
+469,470,Uman,Kirovohrad
+470,471,Kirovohrad,Dnipropetrovsk
+470,896,Kirovohrad,Chişinău
+470,1068,Kirovohrad,Poltava
+471,472,Dnipropetrovsk,Donetsk
+472,473,Donetsk,Rostov-on-Don
+473,474,Rostov-on-Don,Armavir
+473,899,Rostov-on-Don,Taganrog
+475,476,Lorient,Vannes
+476,477,Vannes,Nantes
+477,478,Nantes,Angers
+477,900,Nantes,Poitiers
+478,479,Angers,Tours
+479,620,Tours,Vierzon
+480,481,Montargis,Auxerre
+481,482,Auxerre,Beaune
+482,483,Beaune,Dole
+482,628,Beaune,Antwerp
+483,484,Dole,Besançon
+484,485,Besançon,Belfort
+486,487,Zürich,Winterthur
+487,488,Winterthur,St. Gallen
+487,672,Winterthur,Schaffhausen
+488,489,St. Gallen,St. Margrethen
+489,490,St. Margrethen,Bregenz
+489,675,St. Margrethen,Buchs
+490,491,Bregenz,Feldkirch
+490,674,Bregenz,Lindau
+491,492,Feldkirch,Landeck
+491,494,Feldkirch,Lauterach
+491,495,Feldkirch,Imst
+492,493,Landeck,Telfs
+497,696,Sattledt,Liezen
+497,893,Sattledt,Wels
+498,499,Sankt Pölten,Vienna
+499,500,Vienna,Nickelsdorf
+499,689,Vienna,Halámky
+499,698,Vienna,Graz
+500,501,Nickelsdorf,Mosonmagyaróvár
+502,503,Szolnok,Püspökladány
+503,504,Püspökladány,Oradea
+503,1046,Püspökladány,Nyíregyháza
+504,505,Oradea,Cluj-Napoca
+504,737,Oradea,Berettyóújfalu
+504,738,Oradea,Beiuş
+504,749,Oradea,Satu Mare
+504,910,Oradea,Arad
+505,506,Cluj-Napoca,Turda
+505,750,Cluj-Napoca,Zalău
+505,1052,Cluj-Napoca,Dej
+506,507,Turda,Târgu Mureş
+506,751,Turda,Sebeş
+507,508,Târgu Mureş,Braşov
+508,509,Braşov,Ploieşti
+508,752,Braşov,Sibiu
+508,753,Braşov,Piteşti
+508,1048,Braşov,Bacău
+509,1053,Ploieşti,Buzău
+510,511,Slobozia,Hârşova
+510,758,Slobozia,Galaţi
+511,512,Hârşova,Constanţa
+512,513,Constanţa,Agigea
+512,554,Constanţa,Varna
+512,759,Constanţa,Tulcea
+513,1095,Agigea,Negru Vodă
+514,515,Poti,Senaki
+514,558,Poti,Batumi
+515,516,Senaki,Samtredia
+515,785,Senaki,Zugdidi
+516,517,Samtredia,Kutaisi
+516,1108,Samtredia,Lanchkhuti
+517,518,Kutaisi,Khashuri
+518,519,Khashuri,Gori
+520,521,Rustavi,Ganja
+521,522,Ganja,Yevlakh
+523,524,Ashgabat,Tejen
+523,951,Ashgabat,Gaudan
+524,525,Tejen,Mary
+525,526,Mary,Türkmenabat
+526,527,Türkmenabat,Alat
+528,529,Karshi,Guzar
+529,530,Guzar,Sherobod
+530,531,Sherobod,Termez
+532,533,Jirgatal,Sary Tash
+532,959,Jirgatal,Khorugh
+533,534,Sary Tash,Irkeshtam
+534,956,Irkeshtam,Osh
+535,536,A Coruña,Bilbao
+535,591,A Coruña,Pontevedra
+536,1139,Bilbao,Logroño
+537,621,Clermont-Ferrand,Montluçon
+537,622,Clermont-Ferrand,Montpellier
+538,539,Chambéry,Susa
+538,1110,Chambéry,Marseille
+539,540,Susa,Turin
+540,1112,Turin,Savona
+541,542,Tortona,Brescia
+543,544,Trieste,Postojna
+543,545,Trieste,Ljubljana
+544,545,Postojna,Ljubljana
+545,699,Ljubljana,Maribor
+545,702,Ljubljana,Naklo
+547,548,Vršac,Timişoara
+548,549,Timişoara,Drobeta-Turnu Severin
+548,910,Timişoara,Arad
+549,550,Drobeta-Turnu Severin,Craiova
+550,551,Craiova,Alexandria
+550,741,Craiova,Târgu Jiu
+550,742,Craiova,Calafat
+550,753,Craiova,Piteşti
+552,553,Razgrad,Shumen
+553,554,Shumen,Varna
+554,760,Varna,Burgas
+555,556,Ordu,Giresun
+556,557,Giresun,Trabzon
+557,558,Trabzon,Batumi
+559,560,Lisbon,Valladolid
+559,593,Lisbon,Porto
+559,594,Lisbon,Albufeira
+561,562,Toulouse,Nice
+562,911,Nice,Cuneo
+563,564,Sofia,Plovdiv
+563,745,Sofia,Botevgrad
+563,746,Sofia,Blagoevgrad
+563,1154,Sofia,Kyustendil
+564,565,Plovdiv,Istanbul
+565,566,Istanbul,İzmit
+566,567,İzmit,Gerede
+566,580,İzmit,Bursa
+567,568,Gerede,Amasya
+567,775,Gerede,Kızılcahamam
+568,569,Amasya,Erzurum
+569,570,Erzurum,Gürbulak
+570,571,Gürbulak,Iran
+572,573,Mazara del Vallo,Palermo
+574,575,Reggio Calabria,Metaponto
+575,576,Metaponto,Taranto
+575,1150,Metaponto,Potenza
+577,931,Ioannina,Trikala
+577,1164,Ioannina,Arta
+578,766,Gelibolu,Keşan
+578,767,Gelibolu,Ayvalık
+579,580,Lapseki,Bursa
+580,581,Bursa,Ankara
+580,1155,Bursa,Balıkesir
+581,582,Ankara,Adana
+581,775,Ankara,Kızılcahamam
+581,928,Ankara,Yozgat
+582,583,Adana,Nusaybin
+583,584,Nusaybin,Khabur River
+584,585,Khabur River,Iraq
+586,587,Larne,Belfast
+587,588,Belfast,Newry
+587,812,Belfast,Derry
+587,820,Belfast,Craigavon
+588,589,Newry,Dundalk
+589,590,Dundalk,Drogheda
+591,592,Pontevedra,Valença
+592,593,Valença,Porto
+593,918,Porto,Vila Real
+594,595,Albufeira,Castro Marim
+595,596,Castro Marim,Huelva
+597,598,Cherbourg-Octeville,La Rochelle
+597,884,Cherbourg-Octeville,Caen
+598,1072,La Rochelle,Niort
+598,1073,La Rochelle,Saintes
+600,601,Oslo,Hamar
+600,819,Oslo,Sandvika
+600,829,Oslo,Drammen
+600,830,Oslo,Askim
+601,602,Hamar,Lillehammer
+602,603,Lillehammer,Dombås
+603,604,Dombås,Trondheim
+603,985,Dombås,Åndalsnes
+604,605,Trondheim,Stjørdal
+604,634,Trondheim,Orkanger
+605,606,Stjørdal,Steinkjer
+606,607,Steinkjer,Mosjøen
+607,608,Mosjøen,Mo i Rana
+608,609,Mo i Rana,Rognan
+608,800,Mo i Rana,Umeå
+609,610,Rognan,Fauske
+612,613,Setermoen,Alta
+613,614,Alta,Olderfjord
+614,615,Olderfjord,Lakselv
+614,716,Olderfjord,Nordkapp
+615,616,Lakselv,Karasjok
+617,618,Pau  Pyrénées-Atlantiques,Jaca
+618,619,Jaca,Zaragoza
+619,1139,Zaragoza,Logroño
+620,621,Vierzon,Montluçon
+623,624,Doncaster,Sheffield
+623,841,Doncaster,Immingham
+624,625,Sheffield,Nottingham
+625,626,Nottingham,Leicester
+626,627,Leicester,Northampton
+628,862,Antwerp,Zeebrugge
+629,902,Martigny,Sion
+633,842,Bremen,Groningen
+633,991,Bremen,Bremerhaven
+633,992,Bremen,Walsrode
+634,635,Orkanger,Vinjeøra
+635,636,Vinjeøra,Halsa
+636,637,Halsa,Straumsnes
+637,638,Straumsnes,Kristiansund Mainland Connection
+638,639,Kristiansund Mainland Connection,Batnfjordsøra
+639,640,Batnfjordsøra,Molde
+641,642,Vestnes,Skodje
+642,643,Skodje,Ålesund
+643,644,Ålesund,Volda
+643,984,Ålesund,Tresfjord
+644,645,Volda,Nordfjordeid
+646,647,Sandane,Førde
+647,648,Førde,Lavik
+649,650,Instefjord,Knarvik
+650,651,Knarvik,Bergen
+651,652,Bergen,Os
+651,813,Bergen,Arna
+653,654,Stord,Sveio
+654,655,Sveio,Aksdal
+655,656,Aksdal,Bokn
+657,658,Rennesøy,Randaberg
+658,659,Randaberg,Stavanger
+659,660,Stavanger,Sandnes
+660,661,Sandnes,Helleland
+661,662,Helleland,Flekkefjord
+662,663,Flekkefjord,Lyngdal
+663,664,Lyngdal,Mandal
+664,665,Mandal,Kristiansand
+665,824,Kristiansand,Arendal
+666,667,Hirtshals,Hjørring
+667,668,Hjørring,Nørresundby
+671,672,Stuttgart,Schaffhausen
+671,673,Stuttgart,Ulm
+673,674,Ulm,Lindau
+674,890,Lindau,Waldshut
+675,676,Buchs,Chur
+676,677,Chur,San Bernardino
+679,680,Puttgarden,Oldenburg in Holstein
+680,681,Oldenburg in Holstein,Lübeck
+682,683,Halle,Plauen
+682,1026,Halle,Tournai
+683,684,Plauen,Schönberg
+683,692,Plauen,Hof
+684,685,Schönberg,Vojtanov
+685,686,Vojtanov,Cheb
+686,687,Cheb,Karlovy Vary
+686,887,Cheb,Marktredwitz
+687,1030,Karlovy Vary,Teplice
+688,689,České Budějovice,Halámky
+688,1043,České Budějovice,Humpolec
+691,692,Hirschberg,Hof
+692,693,Hof,Bayreuth
+693,886,Bayreuth,Schweinfurt
+693,887,Bayreuth,Marktredwitz
+694,695,Bayerisch Eisenstein,Deggendorf
+696,697,Liezen,Sankt Michael
+696,1081,Liezen,Altenmarkt im Pongau
+697,698,Sankt Michael,Graz
+698,699,Graz,Maribor
+698,700,Graz,Spielfeld
+698,907,Graz,Klagenfurt
+698,908,Graz,Veszprém
+699,700,Maribor,Spielfeld
+701,702,Karavanke Tunnel,Naklo
+702,1082,Naklo,Loiblpass
+703,704,Kemijärvi,Posio
+704,705,Posio,Kuusamo
+705,706,Kuusamo,Kajaani
+706,707,Kajaani,Iisalmi
+707,708,Iisalmi,Kuopio
+709,710,Tampere,Turku
+709,809,Tampere,Vaasa
+709,811,Tampere,Hämeenlinna
+710,810,Turku,Pori
+711,728,Riga,Šiauliai
+711,845,Riga,Ventspils
+711,846,Riga,Rēzekne
+712,713,Kłodzko,Kudowa-Zdrój
+713,714,Kudowa-Zdrój,Náchod
+714,715,Náchod,Hradec Králové
+715,1031,Hradec Králové,Olomouc
+717,736,Miskolc,Debrecen
+720,721,Szekszárd,Mohács
+721,722,Mohács,Osijek
+722,723,Osijek,Đakovo
+722,1092,Osijek,Sombor
+723,724,Đakovo,Šamac
+724,725,Šamac,Zenica
+725,726,Zenica,Mostar
+725,1091,Zenica,Donji Vakuf
+725,1116,Zenica,Sarajevo
+726,727,Mostar,Metković
+728,729,Šiauliai,Tolpaki
+728,1009,Šiauliai,Palanga
+728,1010,Šiauliai,Panevėžys
+729,730,Tolpaki,Kaliningrad
+729,859,Tolpaki,Nesterov
+733,734,Trstená,Ružomberok
+734,735,Ružomberok,Zvolen
+736,737,Debrecen,Berettyóújfalu
+738,739,Beiuş,Deva
+739,740,Deva,Petroşani
+739,752,Deva,Sibiu
+739,910,Deva,Arad
+740,741,Petroşani,Târgu Jiu
+743,744,Vidin,Vraca
+744,745,Vraca,Botevgrad
+745,755,Botevgrad,Jablanica
+746,747,Blagoevgrad,Serres
+748,749,Halmeu,Satu Mare
+749,750,Satu Mare,Zalău
+751,752,Sebeş,Sibiu
+752,753,Sibiu,Piteşti
+754,755,Pleven,Jablanica
+756,757,Izmail,Reni
+757,758,Reni,Galaţi
+758,759,Galaţi,Tulcea
+758,1069,Galaţi,Giurgiuleşti
+760,761,Burgas,Malko Tarnovo
+761,762,Malko Tarnovo,Dereköy
+762,763,Dereköy,Kırklareli
+763,764,Kırklareli,Babaeski
+764,765,Babaeski,Havsa
+765,766,Havsa,Keşan
+766,922,Keşan,Tekirdağ
+767,768,Ayvalık,İzmir
+768,769,İzmir,Selçuk
+768,935,İzmir,Usak
+768,1156,İzmir,Manisa
+768,1157,İzmir,Çeşme
+769,770,Selçuk,Aydın
+770,771,Aydın,Denizli
+771,772,Denizli,Acıpayam
+772,773,Acıpayam,Korkuteli
+773,774,Korkuteli,Antalya
+776,777,Toprakkale,İskenderun
+777,778,İskenderun,Antakya
+778,779,Antakya,Yayladağı
+779,780,Yayladağı,Syria
+781,782,Kherson,Dzhankoy
+781,897,Kherson,Mykolaiv
+781,898,Kherson,Melitopol
+783,784,Sochi,Sukhumi
+784,785,Sukhumi,Zugdidi
+786,787,Şanlıurfa,Diyarbakır
+787,788,Diyarbakır,Bitlis
+788,789,Bitlis,Doğubeyazit
+789,790,Doğubeyazit,Iğdir
+790,791,Iğdir,Dilucu
+791,792,Dilucu,Sadarak
+792,949,Sadarak,Nakhchivan
+793,794,Jönköping,Linköping
+794,795,Linköping,Norrköping
+795,796,Norrköping,Södertälje
+795,844,Norrköping,Kalmar
+797,798,Uppsala,Sundsvall
+798,799,Sundsvall,Örnsköldsvik
+799,800,Örnsköldsvik,Umeå
+801,802,Haparanda,Tornio
+802,807,Tornio,Kolari
+803,804,Tromsø,Nordkjosbotn
+804,805,Nordkjosbotn,Skibotn
+805,806,Skibotn,Kilpisjärvi
+806,807,Kilpisjärvi,Kolari
+808,809,Kokkola,Vaasa
+809,810,Vaasa,Pori
+813,814,Arna,Voss
+814,815,Voss,Lærdal
+815,816,Lærdal,Tyin
+816,817,Tyin,Fagernes
+817,818,Fagernes,Hønefoss
+818,819,Hønefoss,Sandvika
+821,822,Stranraer,Gretna
+822,823,Gretna,Carlisle
+824,825,Arendal,Porsgrunn
+825,826,Porsgrunn,Larvik
+826,827,Larvik,Sandefjord
+827,828,Sandefjord,Horten
+828,829,Horten,Drammen
+829,983,Drammen,Kongsberg
+830,831,Askim,Karlstad
+832,833,Västerås,Stockholm/Kapellskär
+835,836,Kotka,Vaalimaa
+836,837,Vaalimaa,Vyborg
+838,839,Holyhead,Chester
+839,840,Chester,Warrington
+842,987,Groningen,Hoogeveen
+843,993,Sassnitz,Stralsund
+846,847,Rēzekne,Velikiye Luki
+846,996,Rēzekne,Daugavpils
+846,997,Rēzekne,Ostrov
+848,849,Vladimir,Nizhny Novgorod
+849,850,Nizhny Novgorod,Kazan
+850,851,Kazan,Yelabuga
+851,852,Yelabuga,Perm
+852,853,Perm,Yekaterinburg
+853,854,Yekaterinburg,Tyumen
+856,857,Koszalin,Słupsk
+857,858,Słupsk,Gdynia
+859,860,Nesterov,Marijampolė
+862,1027,Zeebrugge,Jabbeke
+867,868,Aktobe,Karabutak
+868,869,Karabutak,Aral
+869,870,Aral,Novokazalinsk
+871,872,Dunkirk,Lille
+872,873,Lille,Mons
+873,874,Mons,Charleroi
+874,875,Charleroi,Namur
+874,1028,Charleroi,Nivelles
+876,877,St. Vith,Wittlich
+877,878,Wittlich,Bingen
+878,879,Bingen,Wiesbaden
+880,881,Amiens,Charleville-Mézières
+882,883,Trier,Koblenz
+884,885,Caen,Rouen
+884,1023,Caen,Saint-Brieuc
+891,892,Regensburg,Passau
+892,893,Passau,Wels
+893,1044,Wels,Braunau am Inn
+894,895,Iaşi,Sculeni
+894,1065,Iaşi,Săbăoani
+894,1066,Iaşi,Bălţi
+895,896,Sculeni,Chişinău
+896,1064,Chişinău,Leuşeni
+896,1069,Chişinău,Giurgiuleşti
+898,899,Melitopol,Taganrog
+900,901,Poitiers,Mâcon
+902,903,Sion,Simplon
+903,904,Simplon,Gravellona Toce
+905,906,Innichen,Spittal an der Drau
+907,1082,Klagenfurt,Loiblpass
+908,909,Veszprém,Székesfehérvár
+911,912,Cuneo,Asti
+913,914,Pisa,Migliarino
+915,916,Grosseto,Arezzo
+916,917,Arezzo,Sansepolcro
+918,919,Vila Real,Bragança
+918,1128,Vila Real,Viseu
+918,1129,Vila Real,Chaves
+919,920,Bragança,Zamora
+919,1131,Bragança,Guarda
+920,921,Zamora,Tordesillas
+922,923,Tekirdağ,Silivri
+924,925,Kristalopigi,Florina
+925,926,Florina,Vévi
+926,927,Vévi,Géfira
+928,929,Yozgat,Sivas
+929,930,Sivas,Refahiye
+933,934,Megara,Attiki Odos
+935,936,Usak,Afyonkarahisar
+936,937,Afyonkarahisar,Sivrihisar
+938,939,Topboğazi,Kırıkhan
+939,940,Kırıkhan,Reyhanlı
+940,941,Reyhanlı,Cilvegözü
+942,943,Sadakhlo,Bagratashen
+943,944,Bagratashen,Vanadzor
+945,946,Saatly Rayon,Mehgri
+946,947,Mehgri,Ordubad
+947,948,Ordubad,Djulfa
+948,949,Djulfa,Nakhchivan
+950,952,Uchkuduk,Kzylorda
+954,955,Kokand,Andijan
+955,956,Andijan,Osh
+957,958,Kulob,Kalaikhumb
+958,959,Kalaikhumb,Khorugh
+959,960,Khorugh,Murghab
+959,962,Khorugh,Ishkoshim
+960,961,Murghab,Kulma
+962,963,Ishkoshim,Lyanga
+963,964,Lyanga,China
+965,966,Kokpek,Kegen
+965,968,Kokpek,Chundzha
+966,967,Kegen,Tyup
+968,969,Chundzha,Koktal
+969,970,Koktal,Khorgas
+971,972,Usharal,Druzhba
+974,975,Zapadnoe,Zhaksy
+974,978,Zapadnoe,Petropavl
+975,976,Zhaksy,Atbasar
+979,980,Haugesund,Røldal
+980,981,Røldal,Haukeli
+981,982,Haukeli,Seljord
+982,983,Seljord,Kongsberg
+984,985,Tresfjord,Åndalsnes
+987,988,Hoogeveen,Haselünne
+988,989,Haselünne,Cloppenburg
+990,991,Cuxhaven,Bremerhaven
+993,994,Stralsund,Neubrandenburg
+995,996,Ukmergė,Daugavpils
+995,1010,Ukmergė,Panevėžys
+998,999,Tartu,Võru
+998,1001,Tartu,Jõhvi
+998,1002,Tartu,Valga
+999,1000,Võru,Luhamaa
+1002,1003,Valga,Valka
+1003,1004,Valka,Valmiera
+1004,1005,Valmiera,Incukalns
+1006,1007,Keila,Paldiski
+1011,1012,Breda,Gorinchem
+1011,1013,Breda,Flushing
+1014,1015,Hasselt,Heerlen
+1016,1017,Barwinek,Vyšný Komárnik
+1017,1018,Vyšný Komárnik,Svidník
+1019,1020,Lublin,Kovel
+1021,1022,Trosna,Glukhkov
+1024,1025,Roeselare,Kortrijk
+1025,1026,Kortrijk,Tournai
+1031,1033,Olomouc,Český Těšín
+1034,1035,Courtney,Troyes
+1038,1039,Memmingen,Füssen
+1040,1041,Garmisch-Partenkirchen,Mittenwald
+1041,1042,Mittenwald,Seefeld
+1046,1047,Nyíregyháza,Chop
+1049,1050,Dunajská Streda,Medveďov
+1050,1051,Medveďov,Vámosszabadi
+1054,1055,Sărăţel,Reghin
+1055,1056,Reghin,Topliţa
+1056,1057,Topliţa,Gheorgheni
+1057,1058,Gheorgheni,Miercurea-Ciuc
+1058,1059,Miercurea-Ciuc,Sfântu Gheorghe
+1059,1060,Sfântu Gheorghe,Chichiş
+1061,1062,Tişiţa,Tecuci
+1062,1063,Tecuci,Albiţa
+1063,1064,Albiţa,Leuşeni
+1066,1067,Bălţi,Mohyliv-Podilskyi
+1070,1071,Krasnodar,Djoubga
+1073,1074,Saintes,Angoulême
+1074,1075,Angoulême,Limoges
+1076,1077,Digoin,Chalon-sur-Saône
+1079,1080,St. Johann in Tirol,Lofer
+1084,1085,Balatonkeresztúr,Nagyatád
+1085,1086,Nagyatád,Barcs
+1086,1087,Barcs,Virovitica
+1087,1088,Virovitica,Okučani
+1088,1089,Okučani,Banja Luka
+1089,1090,Banja Luka,Jajce
+1090,1091,Jajce,Donji Vakuf
+1090,1115,Jajce,Bihać
+1093,1094,Lugoj,Ilia
+1095,1096,Negru Vodă,Kardam
+1097,1098,Ashtarak,Gyumri
+1098,1099,Gyumri,Ashotsk
+1099,1100,Ashotsk,Akhalkalaki
+1100,1101,Akhalkalaki,Akhaltsikhe
+1101,1102,Akhaltsikhe,Vale  Georgia
+1102,1103,Vale  Georgia,Türkgözü
+1103,1104,Türkgözü,Posof
+1104,1105,Posof,Kars
+1105,1106,Kars,Horasan
+1107,1108,Supsa,Lanchkhuti
+1109,1111,Grenoble,Valence
+1113,1114,Pula,Koper
+1116,1117,Sarajevo,Užice
+1117,1118,Užice,Čačak
+1118,1119,Čačak,Kraljevo
+1118,1124,Čačak,Nova Varoš
+1119,1120,Kraljevo,Kruševac
+1120,1121,Kruševac,Pojate
+1121,1122,Pojate,Paraćin
+1122,1123,Paraćin,Zaječar
+1127,1128,Coimbra,Viseu
+1129,1130,Chaves,Verín
+1129,1140,Chaves,Famalicão
+1131,1132,Guarda,Castelo Branco
+1132,1133,Castelo Branco,Portalegre
+1132,1142,Castelo Branco,Abrantes
+1133,1134,Portalegre,Évora
+1134,1135,Évora,Beja
+1135,1136,Beja,Ourique
+1137,1138,Salamanca,Mérida
+1141,1142,Torres Novas,Abrantes
+1145,1146,Avellino,Benevento
+1147,1148,Spezzano Albanese,Sybaris
+1151,1152,Sant'Eufemia Lamezia,Catanzaro
+1155,1156,Balıkesir,Manisa
+1158,1159,Jaén,Granada
+1160,1161,Buonfornello,Enna
+1162,1163,Alcamo,Trapani
+1164,1165,Arta,Agrinio
+1165,1166,Agrinio,Messolonghi
+1167,1168,Aktio,Vonitsa
+1168,1169,Vonitsa,Amfilochia
+1169,1170,Amfilochia,Karpenisi
+1171,1172,Sparti,Gytheio
+1173,1174,Eleusina,Thebes
