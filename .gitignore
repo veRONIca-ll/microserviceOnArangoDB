@@ -1,1 +1,4 @@
 *.csv
+/dataset/out.subelj_euroroad_euroroad
+/dataset/ent.subelj_euroroad_euroroad.city.name
+*.pyc

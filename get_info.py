@@ -16,7 +16,7 @@ def only_km(distance: str) -> str:
 
 def getting_meta(fileEdges: str, fileNodes: str) -> None:
     dfRoads = pandas.read_csv(fileEdges)
-    gmaps_key = googlemaps.Client(key='AIzaSyDScIaDPfz6I13UTfHuZLmYRI5uoPDVs2c')
+    gmaps_key = googlemaps.Client(key='api-key')
 
     dfCity = pandas.read_csv(fileNodes)
 
