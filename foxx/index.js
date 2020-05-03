@@ -18,7 +18,7 @@ const err_way = {"code": 1, "message": "Edge was not found"};
 
 
 var joi = require("joi");
-const cityCollection = db._collection('cities');
+// const cityCollection = db._collection('cities');
 
 router.get('/time/:cityFrom/:cityTo/:amountOfPaths', function (req, res) {
 
